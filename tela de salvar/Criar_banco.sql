@@ -1,6 +1,6 @@
-create database App_tarefa;
+create database App_cadastro;
 
-use App_tarefa;
+use App_cadastro;
 
 create table Usuario (
     Id_usu int primary key auto_increment,
